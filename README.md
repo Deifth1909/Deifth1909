@@ -43,24 +43,21 @@
       </p>
     <p align="center">
 </a>
-    </p>       
+  
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
 
-      /></a>
-    </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
+
     <p align="center">
 
     </p>       
