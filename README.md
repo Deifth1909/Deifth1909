@@ -47,7 +47,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Deifth1909/Deifth1909/blob/main/assets/D1.jpg"   alt="VIDEO" /></a>
       </p>
 
 
@@ -56,7 +56,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Deifth1909/Deifth1909/blob/main/assets/P3.jpg"   alt="VIDEO" /></a>
 
 
 </td>
@@ -64,7 +64,7 @@
    <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Deifth1909/Deifth1909/blob/main/assets/A1.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
 
