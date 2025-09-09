@@ -55,7 +55,6 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
         <img align="center" width=100% src="https://github.com/Deifth1909/Deifth1909/blob/main/assets/P3.jpg"   alt="VIDEO" /></a>
 
 
@@ -63,7 +62,6 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
         <img align="center" width=100% src="https://github.com/Deifth1909/Deifth1909/blob/main/assets/A1.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
